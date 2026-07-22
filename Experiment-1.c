@@ -43,7 +43,7 @@ void main()
 
     
 }
-// SEcttion 2
+// Section 2
 #include <stdio.h>
 
 #define Max 10
